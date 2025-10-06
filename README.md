@@ -1,1 +1,1 @@
-
+-> Developed a web-based application that implements encryption algorithm (e.g., Caesar Cipher or custom logic) to securely encode and decode text messages.
